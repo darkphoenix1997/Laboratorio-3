@@ -12,4 +12,4 @@ def funcion(x):
   else:
     print "Consonante"
 funcion(x)
-
+#Luis Manuel Garcia Valdivia
