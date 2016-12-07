@@ -15,4 +15,5 @@ def gra(a):
 
 dis=6371.01*math.acos(math.sin(gra(t1))*math.sin(gra(t2))+math.cos(gra(t1))*math.cos(gra(t2))*math.cos(gra(g1)-gra(g2)))
 print dis, "Kilometros"
+#Luis Manuel Garcia Valdivia
 
