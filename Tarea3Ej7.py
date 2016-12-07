@@ -18,4 +18,5 @@ if nombre[0]=="b" or nombre[0]=="B" or nombre[0]=="f" or nombre[0]=="F" or nombr
 
 else:
   print (nombre, nombre, "bo", "b", nombre2, "Bannana Fanna fo F", nombre2, "Fe Fi Mo M", nombre2, nombre)
+#Luis Manuel Garcia Valdivia
 
