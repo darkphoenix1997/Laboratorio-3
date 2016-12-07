@@ -12,4 +12,5 @@ def suma(n):
         n =n/10
     print x + n
 suma(n)
+#Luis Manuel Garcia Valdivia
 
