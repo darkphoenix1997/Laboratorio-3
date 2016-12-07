@@ -22,4 +22,5 @@ if c<b and c<a and b<a:
   print c, b, a
 else:
   "No se aceptan numeros iguales"
+#Luis Manuel Garcia Valdivia
 
