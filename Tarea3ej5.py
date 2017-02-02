@@ -3,13 +3,9 @@
 
 # In[ ]:
 
-x= raw_input("¿Cual es su nombre?")
-x= map(str,x)
-
-def funcion(x):
-  if (x[0]=="x" or x[0]=="x" or x[0]=="x" or x[0]=="x" or x[0]=="x"):
-    print "Vocal"
-  else:
-    print "Consonante"
-funcion(x)
+nombre=raw_input("Introduzca su nombre: ")
+if (nombre[0]=='a' or nombre[0]=='e' or nombre[0]=='i' or nombre[0]=='o' or nombre[0]=='u'):
+	print "La primera letra su nombre es vocal"
+else:
+	print "La primera letra su nombre es consonante"
 #Luis Manuel Garcia Valdivia
